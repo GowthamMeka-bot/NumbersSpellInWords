@@ -10,6 +10,11 @@ namespace NumberToWord
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Enter an Whole Number:");
+            int enteredNumber = int.Parse(Console.ReadLine());
+            string numberSpelledToWord = SpellNumberToWord.SpellTheNumber(enteredNumber);
+            Console.WriteLine(numberSpelledToWord);
+            Console.ReadLine();
         }
     }
 }
