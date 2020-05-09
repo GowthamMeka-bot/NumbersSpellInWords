@@ -10,10 +10,22 @@ namespace NumberToWord
     {
         static void Main(string[] args)
         {
+            SpellNumberToWord spellObj = new SpellNumberToWord();
             Console.WriteLine("Enter an Whole Number:");
-            int enteredNumber = int.Parse(Console.ReadLine());
-            string numberSpelledToWord = SpellNumberToWord.SpellTheNumber(enteredNumber);
-            Console.WriteLine(numberSpelledToWord);
+            int enteredNumber;
+            try
+            {
+                while (true)
+                {
+                    enteredNumber = int.Parse(Console.ReadLine());
+                    string numberSpelledToWord = spellObj.SpellTheNumber(enteredNumber);
+                    Console.WriteLine(numberSpelledToWord);
+                }
+            }
+            catch
+            {
+                Console.WriteLine("Warning : Please enter correct number format");
+            }
             Console.ReadLine();
         }
     }
