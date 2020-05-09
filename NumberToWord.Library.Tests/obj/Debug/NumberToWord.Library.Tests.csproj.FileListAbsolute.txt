@@ -1,0 +1,17 @@
+C:\Users\p10458945\Desktop\NumberSpellInWords\NumberToWord\NumberToWord.Library.Tests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\p10458945\Desktop\NumberSpellInWords\NumberToWord\NumberToWord.Library.Tests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\p10458945\Desktop\NumberSpellInWords\NumberToWord\NumberToWord.Library.Tests\bin\Debug\nunit.engine.dll
+C:\Users\p10458945\Desktop\NumberSpellInWords\NumberToWord\NumberToWord.Library.Tests\bin\Debug\nunit.engine.api.dll
+C:\Users\p10458945\Desktop\NumberSpellInWords\NumberToWord\NumberToWord.Library.Tests\bin\Debug\NumberToWord.Library.Tests.dll
+C:\Users\p10458945\Desktop\NumberSpellInWords\NumberToWord\NumberToWord.Library.Tests\bin\Debug\NumberToWord.Library.Tests.pdb
+C:\Users\p10458945\Desktop\NumberSpellInWords\NumberToWord\NumberToWord.Library.Tests\bin\Debug\NumberToWord.exe
+C:\Users\p10458945\Desktop\NumberSpellInWords\NumberToWord\NumberToWord.Library.Tests\bin\Debug\nunit.framework.dll
+C:\Users\p10458945\Desktop\NumberSpellInWords\NumberToWord\NumberToWord.Library.Tests\bin\Debug\NumberToWord.pdb
+C:\Users\p10458945\Desktop\NumberSpellInWords\NumberToWord\NumberToWord.Library.Tests\bin\Debug\NumberToWord.exe.config
+C:\Users\p10458945\Desktop\NumberSpellInWords\NumberToWord\NumberToWord.Library.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\p10458945\Desktop\NumberSpellInWords\NumberToWord\NumberToWord.Library.Tests\bin\Debug\nunit.framework.xml
+C:\Users\p10458945\Desktop\NumberSpellInWords\NumberToWord\NumberToWord.Library.Tests\obj\Debug\NumberToWord.Library.Tests.csprojAssemblyReference.cache
+C:\Users\p10458945\Desktop\NumberSpellInWords\NumberToWord\NumberToWord.Library.Tests\obj\Debug\NumberToWord.Library.Tests.csproj.CoreCompileInputs.cache
+C:\Users\p10458945\Desktop\NumberSpellInWords\NumberToWord\NumberToWord.Library.Tests\obj\Debug\NumberToWord.Library.Tests.csproj.CopyComplete
+C:\Users\p10458945\Desktop\NumberSpellInWords\NumberToWord\NumberToWord.Library.Tests\obj\Debug\NumberToWord.Library.Tests.dll
+C:\Users\p10458945\Desktop\NumberSpellInWords\NumberToWord\NumberToWord.Library.Tests\obj\Debug\NumberToWord.Library.Tests.pdb
